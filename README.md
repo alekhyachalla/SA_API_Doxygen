@@ -2,9 +2,9 @@
 
 **Group 20 Assignment**
 
-0)	Read the requirements.  Come up with estimate of the work needed.  And the end, compare your estimate to amount of time spent.  Evaluate why the estimate was met or not met.
+Read the requirements.  Come up with estimate of the work needed.  And the end, compare your estimate to amount of time spent.  Evaluate why the estimate was met or not met.
 
-We estimate that it would take 25 hours to achieve the goals. But in reality, it took us over 50 hours to achieve the goals. The delivery time took longer because of the troubleshooting involved and also due to the time spent on understanding the concept and implementation. The estimate was also off because of the enhances made to the Doxygen documentation as well.
+We estimate that it would take 25 hours to achieve the goals. But in reality, it took us over 36 hours to achieve the goals. The delivery time took longer because of the troubleshooting involved and also due to the time spent on understanding the concept and implementation. The estimate was also off because of the enhances made to the Doxygen documentation as well.
 
 Output:
 
