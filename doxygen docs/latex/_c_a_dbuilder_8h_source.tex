@@ -1,0 +1,44 @@
+\hypertarget{_c_a_dbuilder_8h_source}{}\doxysection{CADbuilder.\+h}
+\label{_c_a_dbuilder_8h_source}\index{AutomationBinding/CADbuilder.h@{AutomationBinding/CADbuilder.h}}
+\mbox{\hyperlink{_c_a_dbuilder_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_automation_binding_exports_8h}{AutomationBindingExports.h}}"{}}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{_automation_a_p_i___i_builder_8h}{AutomationAPI\_IBuilder.h}}"{}}}
+\DoxyCodeLine{4 }
+\DoxyCodeLine{5 \textcolor{keyword}{namespace }\mbox{\hyperlink{namespace_automation_a_p_i}{AutomationAPI}}}
+\DoxyCodeLine{6 \{}
+\DoxyCodeLine{7     \textcolor{keyword}{class }CADObject;}
+\DoxyCodeLine{8     \textcolor{keyword}{class }Part;}
+\DoxyCodeLine{9     \textcolor{keyword}{class }CADbuilder;}
+\DoxyCodeLine{10     \textcolor{keyword}{class }BlockBuilderImpl;}
+\DoxyCodeLine{13     \textcolor{keyword}{class }\mbox{\hyperlink{_automation_binding_exports_8h_a4b4ededcfdb4880bbe5170af32649741}{AUTOMATIONBINDING\_API}} \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder}{CADbuilder}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_automation_a_p_i_1_1_i_builder}{IBuilder}}}
+\DoxyCodeLine{14     \{}
+\DoxyCodeLine{15         \textcolor{keyword}{public}:}
+\DoxyCodeLine{16             \textcolor{keyword}{enum} \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_a1a1817351072a09d601c0829960f14a7}{CADbuilderTypes}}}
+\DoxyCodeLine{17             \{}
+\DoxyCodeLine{18                 \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_a1a1817351072a09d601c0829960f14a7a7a63f282d4af59be182cef98ad487bcf}{TypesRadius}}, }
+\DoxyCodeLine{19             \};}
+\DoxyCodeLine{20 }
+\DoxyCodeLine{21             \textcolor{keywordtype}{void} \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_ac81a25681d80c5026222bb63b79e64de}{SetType}}(\mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_a1a1817351072a09d601c0829960f14a7}{CADbuilderTypes}} type);}
+\DoxyCodeLine{22             \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_a1a1817351072a09d601c0829960f14a7}{CADbuilderTypes}} GetType();}
+\DoxyCodeLine{23             \mbox{\hyperlink{class_automation_a_p_i_1_1_part}{Part}}* Creation();}
+\DoxyCodeLine{24             \textcolor{keywordtype}{void} Setcorrdinatex(\textcolor{keywordtype}{int} h);}
+\DoxyCodeLine{25             \textcolor{keywordtype}{void} Setcordinatey(\textcolor{keywordtype}{int} d);}
+\DoxyCodeLine{26             \textcolor{keywordtype}{void} Getguid();}
+\DoxyCodeLine{27             \textcolor{keywordtype}{void} Getcircumference();}
+\DoxyCodeLine{28             \textcolor{keywordtype}{void} GetArea();}
+\DoxyCodeLine{29             }
+\DoxyCodeLine{30             \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_d_object}{CADObject}}* Commit() \textcolor{keyword}{override};}
+\DoxyCodeLine{31             \textcolor{keyword}{static} \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder}{CADbuilder}}* \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_a71ab9564efc710d7e2947964a08b5e67}{CreateBlockBuilder}}(\textcolor{keywordtype}{int} guid);}
+\DoxyCodeLine{32             \textcolor{keyword}{virtual} \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder_a795f2500740db2242c4291c809916596}{\string~CADbuilder}}();}
+\DoxyCodeLine{33             \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder}{CADbuilder}}() = \textcolor{keyword}{delete};}
+\DoxyCodeLine{34         \textcolor{keyword}{private}:}
+\DoxyCodeLine{35             \mbox{\hyperlink{class_automation_a_p_i_1_1_c_a_dbuilder}{CADbuilder}}(\textcolor{keywordtype}{int} guid);}
+\DoxyCodeLine{36             \mbox{\hyperlink{class_automation_a_p_i_1_1_block_builder_impl}{BlockBuilderImpl}}* m\_blockBuilderImpl;}
+\DoxyCodeLine{37 }
+\DoxyCodeLine{38     \};}
+\DoxyCodeLine{39 \}}
+\DoxyCodeLine{40 }
+
+\end{DoxyCode}

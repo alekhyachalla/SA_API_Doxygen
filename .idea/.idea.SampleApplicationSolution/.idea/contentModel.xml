@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\alekhya\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\alekhya\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SampleApplicationSolution.1369821716.00" t="ExcludeRecursive" />
+    <e p="E:\SA Assignments\Group 20 Assignment 8\SoftwareArchitectureCLassApplication-main" t="IncludeFlat">
+      <e p="AppLibrary" t="IncludeRecursive">
+        <e p="AppFeaturesOpsExports.h" t="Include" />
+        <e p="AppLibrary.vcxproj" t="IncludeRecursive" />
+        <e p="Block.cpp" t="Include" />
+        <e p="Block.h" t="Include" />
+        <e p="BlockBuilder.cpp" t="Include" />
+        <e p="BlockBuilder.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="Extrude.cpp" t="Include" />
+        <e p="Extrude.h" t="Include" />
+        <e p="ExtrudeVersions.cpp" t="Include" />
+        <e p="ExtrudeVersions.h" t="Include" />
+        <e p="Feature.cpp" t="Include" />
+        <e p="Feature.h" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="Journaling_BlockBuilder.cpp" t="Include" />
+        <e p="Journaling_BlockBuilder.h" t="Include" />
+        <e p="Journaling_FeatureCollection.cpp" t="Include" />
+        <e p="Journaling_FeatureCollection.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="AppPartOps" t="IncludeRecursive">
+        <e p="AppPartOps.vcxproj" t="IncludeRecursive" />
+        <e p="AppPartOpsExports.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="DelMeBadPattern.h" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="Journaling_Part.cpp" t="Include" />
+        <e p="Journaling_Part.h" t="Include" />
+        <e p="Journaling_Session.cpp" t="Include" />
+        <e p="Journaling_Session.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="PartOps.cpp" t="Include" />
+        <e p="PartOps.h" t="Include" />
+        <e p="PartOpsInternal.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="AppsCore" t="IncludeRecursive">
+        <e p="AppsCore.cpp" t="Include" />
+        <e p="AppsCore.h" t="Include" />
+        <e p="AppsCore.vcxproj" t="IncludeRecursive" />
+        <e p="CadObjectBuilder.cpp" t="Include" />
+        <e p="CadObjectBuilder.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="AutomationBinding" t="IncludeRecursive">
+        <e p="AutomationAPI_Block.h" t="Include" />
+        <e p="AutomationAPI_BlockBuilder.h" t="Include" />
+        <e p="AutomationAPI_CADObject.h" t="Include" />
+        <e p="AutomationAPI_Extrude.h" t="Include" />
+        <e p="AutomationAPI_FeatureCollection.h" t="Include" />
+        <e p="AutomationAPI_IBuilder.h" t="Include" />
+        <e p="AutomationAPI_ICADObject.h" t="Include" />
+        <e p="AutomationAPI_Part.h" t="Include" />
+        <e p="AutomationAPI_RoutingCollection.h" t="Include" />
+        <e p="AutomationAPI_Session.h" t="Include" />
+        <e p="AutomationAPI_Wire.h" t="Include" />
+        <e p="AutomationAPI_WireBuilder.h" t="Include" />
+        <e p="AutomationBinding.vcxproj" t="IncludeRecursive" />
+        <e p="AutomationBindingExports.h" t="Include" />
+        <e p="Block.cpp" t="Include" />
+        <e p="BlockBuilder.cpp" t="Include" />
+        <e p="CADObject.cpp" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="Extrude.cpp" t="Include" />
+        <e p="FeatureCollection.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="IBuilder.cpp" t="Include" />
+        <e p="NonPimplVersionOfPart .h__" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="Part.cpp" t="Include" />
+        <e p="RoutingCollection.cpp" t="Include" />
+        <e p="Session.cpp" t="Include" />
+        <e p="Wire.cpp" t="Include" />
+        <e p="WireBuilder.cpp" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="BadLibrariesExe" t="IncludeRecursive">
+        <e p="BadLibrariesExe.vcxproj" t="IncludeRecursive" />
+        <e p="MainExe.cpp" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="UI.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="CoolDemandLoadedLibrary" t="IncludeRecursive">
+        <e p="CoolDemandLoadedLibrary.vcxproj" t="IncludeRecursive" />
+        <e p="CoolDemandLoadedLibraryExports.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="RoutingFeature.cpp" t="Include" />
+        <e p="RoutingFeature.h" t="Include" />
+        <e p="Wire.cpp" t="Include" />
+        <e p="Wire.h" t="Include" />
+        <e p="WireVersions.cpp" t="Include" />
+        <e p="WireVersions.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="Core" t="IncludeRecursive">
+        <e p="BI.cpp" t="Include" />
+        <e p="BI.h" t="Include" />
+        <e p="Core.cpp" t="Include" />
+        <e p="Core.h" t="Include" />
+        <e p="Core.vcxproj" t="IncludeRecursive" />
+        <e p="CoreExports.h" t="Include" />
+        <e p="CoreSession.cpp" t="Include" />
+        <e p="CoreSession.h" t="Include" />
+        <e p="CoreUtiles.cpp" t="Include" />
+        <e p="CoreUtils.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="GuidObject.cpp" t="Include" />
+        <e p="GuidObject.h" t="Include" />
+        <e p="IObserver.h" t="Include" />
+        <e p="ISubject.h" t="Include" />
+        <e p="LibraryLoad.cpp" t="Include" />
+        <e p="LibraryLoad.h" t="Include" />
+        <e p="Observer.cpp" t="Include" />
+        <e p="Observer.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="StringUtils.cpp" t="Include" />
+        <e p="StringUtils.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="CoreUnitTest" t="IncludeRecursive">
+        <e p="CoreUnitTest.vcxproj" t="IncludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="pch.cpp" t="Include" />
+        <e p="pch.h" t="Include" />
+        <e p="test.cpp" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="DataReader" t="IncludeRecursive">
+        <e p="cpp.hint" t="Include" />
+        <e p="DataObjectReader.cpp" t="Include" />
+        <e p="DataObjectReader.h" t="Include" />
+        <e p="DataReader.vcxproj" t="IncludeRecursive" />
+        <e p="DataReaderExports.h" t="Include" />
+        <e p="dataReaderFunctionType.h" t="Include" />
+        <e p="DataReaderRegistrant.cpp" t="Include" />
+        <e p="DataReaderRegistrant.h" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="FakeAutomationJava" t="Include">
+        <e p="FakeAutomationJava.h" t="Include" />
+        <e p="FakeAutomationJava.java" t="Include" />
+      </e>
+      <e p="FeatureOpsUI" t="IncludeRecursive">
+        <e p="BlockBuilderUI.cpp" t="Include" />
+        <e p="BlockBuilderUI.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="FeatureOpsUI.vcxproj" t="IncludeRecursive" />
+        <e p="FeatureOpsUIExports.h" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="MakeWidgetFeature.cpp" t="Include" />
+        <e p="MakeWidgetFeature.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="JavaAutomationBinding" t="IncludeRecursive">
+        <e p="automationapi_Part.cpp" t="Include" />
+        <e p="AutomationAPI_Part.h" t="Include" />
+        <e p="automationapi_Session.cpp" t="Include" />
+        <e p="AutomationAPI_Session.h" t="Include" />
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="JavaAutomationBinding.cpp" t="Include" />
+        <e p="JavaAutomationBinding.h" t="Include" />
+        <e p="JavaAutomationBinding.vcxproj" t="IncludeRecursive" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="JavaLoader" t="IncludeRecursive">
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="JavaLoader.cpp" t="Include" />
+        <e p="JavaLoader.h" t="Include" />
+        <e p="JavaLoader.vcxproj" t="IncludeRecursive" />
+        <e p="JavaLoaderExports.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="jniAutomationLibrary" t="IncludeRecursive">
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="jniAutomationLibrary.cpp" t="Include" />
+        <e p="jniAutomationLibrary.h" t="Include" />
+        <e p="jniAutomationLibrary.vcxproj" t="IncludeRecursive" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="JournaledCPPFileProject" t="IncludeRecursive">
+        <e p="JournaledCPPFileProject.vcxproj" t="IncludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="SampleJournal.cpp" t="Include" />
+        <e p="SampleJournal.txt" t="Include" />
+        <e p="SampleJournal2.cpp" t="Include" />
+        <e p="Source.cpp" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="Journaling" t="IncludeRecursive">
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="JournalCallData.cpp" t="Include" />
+        <e p="JournalCallData.h" t="Include" />
+        <e p="JournalCallParamData.cpp" t="Include" />
+        <e p="JournalCallParamData.h" t="Include" />
+        <e p="JournalCallParamDataClass.cpp" t="Include" />
+        <e p="JournalCallParamDataClass.h" t="Include" />
+        <e p="JournalCallParamDataString.cpp" t="Include" />
+        <e p="JournalCallParamDataString.h" t="Include" />
+        <e p="JournalExports.h" t="Include" />
+        <e p="JournalFile.cpp" t="Include" />
+        <e p="JournalFile.h" t="Include" />
+        <e p="JournalHelpers.h" t="Include" />
+        <e p="Journaling.cpp" t="Include" />
+        <e p="Journaling.h" t="Include" />
+        <e p="Journaling.vcxproj" t="IncludeRecursive" />
+        <e p="JournalingInternal.h" t="Include" />
+        <e p="JournalingTypes.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PartOpsUI" t="IncludeRecursive">
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="PartOpsUI.vcxproj" t="IncludeRecursive" />
+        <e p="PartOpsUIExports.h" t="Include" />
+        <e p="PartsUtilsUI.cpp" t="Include" />
+        <e p="PartsUtilsUI.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="SampleApplicationSolution.sln" t="IncludeFlat" />
+      <e p="UILibrary" t="IncludeRecursive">
+        <e p="cpp.hint" t="Include" />
+        <e p="dllmain.cpp" t="Include" />
+        <e p="framework.h" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="UI.cpp" t="Include" />
+        <e p="UI.h" t="Include" />
+        <e p="UILibrary.vcxproj" t="IncludeRecursive" />
+        <e p="UILIbraryExports.h" t="Include" />
+        <e p="x64\Debug" t="ExcludeRecursive" />
+      </e>
+      <e p="x64\Debug" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
